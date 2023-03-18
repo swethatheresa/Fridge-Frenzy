@@ -24,6 +24,6 @@ You may also see any errors in the console.
 
 ## App Preview!
 
-[Uploading 2.png…]()
+![2](https://user-images.githubusercontent.com/83918978/226123849-bbda96d0-850b-482b-9410-9c5051979163.png)
 
 ![1](https://user-images.githubusercontent.com/83918978/226111721-36a45bb1-e31c-4417-a909-74941e65a392.jpg)
